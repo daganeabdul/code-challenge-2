@@ -1,7 +1,7 @@
 
  Author : Abdirahman Dagane .
  
- Event List Today
+ Event Guest list
 
 A simple web app to manage your event guest list.
 
