@@ -3,7 +3,7 @@ Event Guest List Manager
 
 Project Description
 
-What is this project ?
+What is this project?
 
 The Event Guest List Manager is a simple, interactive web application built with HTML, CSS, and JavaScript. It allows users to manage guest names for an event by adding, updating, categorizing, and deleting entries in real time without refreshing the browser.
 
@@ -12,14 +12,14 @@ How does it work?
 Users enter guest names into a form input. On submission, the name is added to a visible list with options to:
 
  Remove the guest
- Mark their RSVP status  Attending/Not Attending
- Categorize them e.g., Friend, Family, Colleague
+ Mark their RSVP status:  Attending /Not Attending
+ Categorize them, e.g, Friend, Family, Colleague
  Edit their name
  View the time they were added
 
 The list is limited to 10 guests to avoid overcrowding.
 
-Who are the users ?
+Who are the users?
 
 This tool is designed for:
 
@@ -27,13 +27,13 @@ This tool is designed for:
  Students learning front-end development
  Anyone managing small event guest lists
 
-What are the benefits for the users ?
+What are the benefits for the users?
 
  Easily track who’s attending an event
  Get hands-on practice with DOM manipulation
  Learn how forms and events work in real-time applications
 
-What is the goal of this project ?
+What is the goal of this project?
 
 To provide a fun, practical exercise for improving core JavaScript skills- especially around forms, event handling, DOM updates, and state management- while building something useful.
 
@@ -64,7 +64,7 @@ We welcome improvements or new feature ideas! Here's how:
 
  Project Structure
  
- event-guest-list-manager/
+ Code-challange-2/
  index.html      
  index.js     
  style.css       
