@@ -56,38 +56,46 @@ guest-list-manager/
  index.js
 
 SCREENSHOT
+
 ![image alt](https://github.com/daganeabdul/code-challenge-2/blob/main/unnamed.png?raw=true)
 
 
 
  Features
+ 
  Core Features
-Add a guest by name
-Display guests in a list
-Edit guest names
-Delete guests from the list
-Limit guest list to 10 people with alert
-Toggle RSVP status (Attending / Not Attending)
+ 
+   Add a guest by name
+   Display guests in a list
+   Edit guest names
+   Delete guests from the list
+   Limit guest list to 10 people with alert
+   Toggle RSVP status (Attending / Not Attending)
 
 
 Stretch Features
-Categorize guests: Friend, Family, Colleague (with color tags)
-Show timestamp of when the guest was added
+
+  Categorize guests: Friend, Family, Colleague (with color tags)
+   Show timestamp of when the guest was added
 
 
 
  Testing
-Manual testing checklist:
-Use console.log() to debug
-Refresh browser and confirm changes
-Ensure all buttons (Edit, Delete, Toggle RSVP) function properly
+ 
+   Manual testing checklist:
+   Use console.log() to debug
+   Refresh browser and confirm changes
+   Ensure all buttons (Edit, Delete, Toggle RSVP) function properly
 
 
 
  Want to Contribute?
+ 
 We welcome improvements and new feature ideas!
+
 Contribution Steps:
-  Fork this repository
+
+ Fork this repository
  Create a new branch
  Commit your changes
  Open a Pull Request describing what you’ve added or improved
