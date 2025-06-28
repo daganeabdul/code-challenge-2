@@ -46,11 +46,17 @@ To provide a fun and practical exercise for improving core JavaScript skills - e
  How to Use
  Setup
 1. Clone the repository:
+2. 
   https://github.com/daganeabdul/code-challenge-2.git
+
 Open the project folder and launch the app:
+
 Open index.html in your browser (double-click or use Live Server)
+
 Use the WEBSITE :
+
 Type a guest's name and click Submit
+
 Manage the guest using toggle, edit, and delete buttons
 
  Project Structure
