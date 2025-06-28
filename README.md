@@ -1,12 +1,16 @@
 
 Event Guest List Manager
+
 A simple, interactive web application built with HTML, CSS, and JavaScript for managing event guest names in real-time.
 
 By Abdirahman Dagane
 
  Project Description
+ 
  What is this project?
+ 
 The Event Guest List Manager is a web-based tool that allows users to add, update, categorize, and delete guest names dynamically without refreshing the browser.
+
  How does it work?
 Users can:
 - Enter a guest name into a form
