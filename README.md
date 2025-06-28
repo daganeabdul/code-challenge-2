@@ -56,7 +56,7 @@ guest-list-manager/
  index.js
 
 SCREENSHOT
-
+![image alt](https://github.com/daganeabdul/code-challenge-2/blob/main/unnamed.png?raw=true)
 
 
 
