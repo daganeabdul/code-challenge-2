@@ -1,108 +1,111 @@
 
 Event Guest List Manager
+A simple, interactive web application built with HTML, CSS, and JavaScript for managing event guest names in real-time.
 
-Project Description
+By Abdirahman Dagane
 
-What is this project?
+ Project Description
+ What is this project?
+The Event Guest List Manager is a web-based tool that allows users to add, update, categorize, and delete guest names dynamically without refreshing the browser.
+ How does it work?
+Users can:
+- Enter a guest name into a form
+- On submission, the name is added to a visible list
+- Perform actions like:
 
-The Event Guest List Manager is a simple, interactive web application built with HTML, CSS, and JavaScript. It allows users to manage guest names for an event by adding, updating, categorizing, and deleting entries in real time without refreshing the browser.
+  -  Mark RSVP: Attending / Not Attending
+  -  Remove the guest
+  -  Edit the guest's name
+  -  Categorize: Friend, Family, Colleague
+  -  View timestamp of when the guest was added
 
-How does it work?
+ N/B: : The guest list is limited to 10 entries  to avoid overcrowding.
+ Who are the users?
+This app is ideal for:
+-  Event organizers
+-  Students learning front-end development
+-  Anyone managing small event guest lists
 
-Users enter guest names into a form input. On submission, the name is added to a visible list with options to:
+ What are the benefits?
+- Easily track who’s attending an event
+- Learn and practice DOM manipulation
+- See how forms and events work in real-time JavaScript apps
 
- Remove the guest
- Mark their RSVP status:  Attending /Not Attending
- Categorize them, e.g, Friend, Family, Colleague
- Edit their name
- View the time they were added
+ Goal of the project
+To provide a fun and practical exercise for improving core JavaScript skills - especially in:
 
-The list is limited to 10 guests to avoid overcrowding.
+- Form handling
+- Event listeners
+- DOM updates
+- State management
 
-Who are the users?
-
-This tool is designed for:
-
- Event organizers
- Students learning front-end development
- Anyone managing small event guest lists
-
-What are the benefits for the users?
-
- Easily track who’s attending an event
- Get hands-on practice with DOM manipulation
- Learn how forms and events work in real-time applications
-
-What is the goal of this project?
-
-To provide a fun, practical exercise for improving core JavaScript skills- especially around forms, event handling, DOM updates, and state management- while building something useful.
-
-
-
-How to Use
-
+ How to Use
+ Setup
 1. Clone the repository:
-
-2. Open index.html in your browser:
-  
-3.  Use the app:
-
-    Type a guest’s name and click  - Submit
-    The guest will appear in the list
-    Use the toggle, edit, and delete buttons to manage entries
-
-
- Want to contribute?
-
-We welcome improvements or new feature ideas! Here's how:
-
-1. Fork this repo
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request describing what you’ve added
-
+  https://github.com/daganeabdul/code-challenge-2.git
+Open the project folder and launch the app:
+Open index.html in your browser (double-click or use Live Server)
+Use the WEBSITE :
+Type a guest's name and click Submit
+Manage the guest using toggle, edit, and delete buttons
 
  Project Structure
- 
- Code-challange-2/
- index.html      
- index.js     
- style.css       
+guest-list-manager/
+ index.html
+ style.css
+ index.js
+
+SCREENSHOT
+
+
 
 
  Features
-
  Core Features
-
 Add a guest by name
 Display guests in a list
+Edit guest names
 Delete guests from the list
-Limit guest list to 10 people with an alert
-Toggle RSVP status
+Limit guest list to 10 people with alert
+Toggle RSVP status (Attending / Not Attending)
+
 
 Stretch Features
-
- Guest categories: Friend, Family, Colleague (with color tags)
- Timestamp for when the guest was added
-
+Categorize guests: Friend, Family, Colleague (with color tags)
+Show timestamp of when the guest was added
 
 
 
-
-Testing
-
-Manual testing:
-
- Use  console.log()  while building
- Refresh the browser to check changes
- Confirm that all buttons and features work as expected
+ Testing
+Manual testing checklist:
+Use console.log() to debug
+Refresh browser and confirm changes
+Ensure all buttons (Edit, Delete, Toggle RSVP) function properly
 
 
 
+ Want to Contribute?
+We welcome improvements and new feature ideas!
+Contribution Steps:
+  Fork this repository
+ Create a new branch
+ Commit your changes
+ Open a Pull Request describing what you’ve added or improved
 
-License
 
+
+ License
 This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
+
+
 
 
 
